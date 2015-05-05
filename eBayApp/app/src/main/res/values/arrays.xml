@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item name="BestMatch" value="BestMatch">Best Match</item>
+        <item name="CurrentPriceHighest" value="CurrentPriceHighest">Price: highest first"</item>
+        <item name="PricePlusShippingHighest" value="PricePlusShippingHighest">Price + Shipping: highest first</item>
+        <item name="PricePlusShippingLowest" value="PricePlusShippingLowest">Price + Shipping: lowest first</item>
+    </string-array>
+</resources>
